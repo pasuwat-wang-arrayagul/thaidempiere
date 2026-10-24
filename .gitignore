@@ -1,0 +1,18 @@
+**/bin/**
+*/bin/
+build/
+External Plug-in Libraries
+/hazelcast.xml
+/idempiereEnv.properties
+/idempiere.properties
+**/lib/*.jar
+**.log
+/*.log
+/log/
+.metadata/**
+/.metadata/
+.recommenders
+/RemoteSystemsTempFiles/
+server.product*.launch
+**/target/
+*/target/
