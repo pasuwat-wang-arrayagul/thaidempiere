@@ -16,3 +16,5 @@ External Plug-in Libraries
 server.product*.launch
 **/target/
 */target/
+
+**/.settings/**
